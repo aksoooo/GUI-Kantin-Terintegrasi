@@ -9,8 +9,6 @@ Original file is located at
 
 import gdown
 import sqlite3
-import tkinter as tk
-from tkinter import ttk, messagebox
 import gradio as gr
 from datetime import datetime
 
