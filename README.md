@@ -55,7 +55,7 @@ Relasi antar tabel bersifat satu-ke-satu antara `Akun` dan `Pembeli`/`Kios` (ter
 .
 ├── Mini_Project_Database_Kelompok_11.ipynb   # Notebook utama aplikasi
 ├── Basis Data Kantin.db                      # Database sementara yang digunakan 
-└── README.md                                  # Dokumentasi proyek (berkas ini)
+└── README.md                                 # Dokumentasi proyek 
 ```
 
 Notebook disusun ke dalam beberapa bagian utama:
