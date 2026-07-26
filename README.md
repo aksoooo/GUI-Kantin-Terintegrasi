@@ -1,6 +1,6 @@
 # Kantin Terintegrasi — Mini Project Database (Kelompok 11)
 
-Aplikasi **Kantin Terintegrasi** adalah sistem manajemen kios dan transaksi kantin berbasis basis data relasional (SQLite) dengan antarmuka web interaktif yang dibangun menggunakan [Gradio](https://www.gradio.app/). Aplikasi ini dikembangkan sebagai mini project mata kuliah Basis Data oleh Kelompok 11.
+Aplikasi **Kantin Terintegrasi** adalah sistem manajemen kios dan transaksi kantin berbasis basis data relasional (SQLite) dengan antarmuka web interaktif yang dibangun menggunakan [Gradio](https://www.gradio.app/). Aplikasi ini dikembangkan sebagai mini project mata kuliah _Database_ oleh Kelompok 11.
 
 Aplikasi mendukung dua peran pengguna dengan hak akses dan fitur yang berbeda:
 
