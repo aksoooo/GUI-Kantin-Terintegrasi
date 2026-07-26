@@ -109,16 +109,6 @@ Setelah sel terakhir (`app.launch()`) dijalankan, Gradio akan menampilkan URL lo
 - **Skema `ID Menu`** diturunkan dari `ID Kios` (setiap kios memiliki rentang ID tersendiri), sehingga terdapat keterkaitan langsung antara struktur ID kios dan ID menu.
 - Aplikasi ini dibangun untuk tujuan pembelajaran (mini project) dan belum mengimplementasikan praktik keamanan produksi, seperti hashing password atau proteksi terhadap SQL injection tingkat lanjut (meskipun seluruh query telah menggunakan parameterized query).
 
-## Anggota Kelompok
-
-Kelompok 11 — *(isi nama & NPM anggota kelompok di sini)*
-
-| Nama | NPM |
-|---|---|
-| ... | ... |
-| ... | ... |
-| ... | ... |
-
 ## Lisensi
 
-Proyek ini dibuat untuk keperluan akademik (tugas mini project mata kuliah Basis Data) dan tidak dilisensikan untuk penggunaan komersial.
+Proyek ini dibuat untuk keperluan akademik dan tidak dilisensikan untuk penggunaan komersial.
