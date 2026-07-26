@@ -16,7 +16,6 @@ Aplikasi mendukung dua peran pengguna dengan hak akses dan fitur yang berbeda:
 - [Alur Penggunaan Aplikasi](#alur-penggunaan-aplikasi)
 - [Catatan Teknis & Keterbatasan](#catatan-teknis--keterbatasan)
 - [Anggota Kelompok](#anggota-kelompok)
-- [Lisensi](#lisensi)
 
 ## Fitur
 
