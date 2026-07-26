@@ -1,4 +1,4 @@
-# Kantin Terintegrasi — Mini Project Database (Kelompok 11)
+# Kantin Terintegrasi — Mini Project Database 
 
 Aplikasi **Kantin Terintegrasi** adalah sistem manajemen kios dan transaksi kantin berbasis basis data relasional (SQLite) dengan antarmuka web interaktif yang dibangun menggunakan [Gradio](https://www.gradio.app/). Aplikasi ini dikembangkan sebagai mini project mata kuliah Basis Data oleh Kelompok 11.
 
@@ -111,14 +111,16 @@ Setelah sel terakhir (`app.launch()`) dijalankan, Gradio akan menampilkan URL lo
 
 ## Anggota Kelompok
 
-Kelompok 11 — *(isi nama & NPM anggota kelompok di sini)*
+Kelompok 11
 
 | Nama | NPM |
-|---|---|
-| ... | ... |
-| ... | ... |
-| ... | ... |
+|I Made Sangkhya|---|
+| Miguel | ... |
+| Fariz Naufal Gustoro | ... |
+| Jonathan Kesangapenta Manik | ... |
+| Mohammad Aqsha Dwinovryan | ... |
+
 
 ## Lisensi
 
-Proyek ini dibuat untuk keperluan akademik (tugas mini project mata kuliah Basis Data) dan tidak dilisensikan untuk penggunaan komersial.
+Proyek ini dibuat untuk keperluan akademik dan tidak dilisensikan untuk penggunaan komersial.
