@@ -113,14 +113,10 @@ Setelah sel terakhir (`app.launch()`) dijalankan, Gradio akan menampilkan URL lo
 
 Kelompok 11
 
-| Nama | NPM |
-|I Made Sangkhya|---|
-| Miguel | ... |
-| Fariz Naufal Gustoro | ... |
-| Jonathan Kesangapenta Manik | ... |
-| Mohammad Aqsha Dwinovryan | ... |
+- I Made Sangkhya
+- Miguel
+- Fariz Naufal Gustoro
+- Jonathan Kesangapenta Manik
+- Mohammad Aqsha Dwinovryan
 
 
-## Lisensi
-
-Proyek ini dibuat untuk keperluan akademik dan tidak dilisensikan untuk penggunaan komersial.
